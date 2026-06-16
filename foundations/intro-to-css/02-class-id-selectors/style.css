@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #d65182;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.special {
+    font-size: 24px;
+}
+
+#prime {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#composite {
+    background-color: #3dcc68;
+    font-size: 24px;
+    font-weight: bold;
+}
